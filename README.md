@@ -48,4 +48,4 @@ Cálculo prático das saídas da simulação:
 
 # Vídeo explicando:
 
-[Vídeo Pondera - CPU de 8 bits](https://youtu.be/aX-4K79M9BQ)
+[Vídeo Ponderada - CPU de 8 bits](https://youtu.be/aX-4K79M9BQ)
