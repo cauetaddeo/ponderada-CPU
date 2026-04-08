@@ -41,7 +41,7 @@ O processador processa padrões binários. O Opcode e o Operando em conjunto for
 ## Validação via Diagrama de Tempo
 A validação do processador em simulação é feita analisando as saídas lógicas em resposta aos pulsos do Clock ao longo do tempo. Os valores geralmente são exibidos no sistema **Hexadecimal** (base 16), padronizado pelo prefixo `0x`, por sua eficiência em agrupar bits de 4 em 4. Letras de A a F assumem os valores de 10 a 15.
 
-*Cálculo prático das saídas da simulação:*
+Cálculo prático das saídas da simulação:
 * **Valor `0x14`:** Convertendo para a base 10 (decimal), multiplica-se 1 por 16 e soma-se com 4. Resultado: o acumulador registrou o valor decimal 20.
 * **Valor `0xFF`:** Convertendo para decimal, o 'F' vale 15. (15 * 16) + 15 resulta no valor decimal 255. Este é o limite numérico máximo que pode ser representado utilizando 8 bits de processamento.
 
